@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+  <track model="NITC-FOSS_track.spm" x="0" y="0" z="0"/>
+  <sky-box texture="genericskybox_top.jpg genericskybox_bottom.jpg genericskybox_east.jpg genericskybox_west.jpg genericskybox_south.jpg genericskybox_north.jpg" />
+  <camera far="1000.0"/>
+  <checks>
+    <check-lap kind="lap" same-group="0" 0 />
+  </checks>
+  <default-start karts-per-row     ="3"
+                 forwards-distance ="1.50"
+                 sidewards-distance="1.80"
+                 upwards-distance  ="1.10"/>
+</scene>
