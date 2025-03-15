@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <scene>
   <track model="NITC-FOSS_track.spm" x="0" y="0" z="0"/>
-  <sky-box texture="genericskybox_top.jpg genericskybox_bottom.jpg genericskybox_east.jpg genericskybox_west.jpg genericskybox_south.jpg genericskybox_north.jpg" />
+  <sky-color rgb="18 17 35"/>
+  <sky-box texture="generic_purple_skybox_top.png generic_purple_skybox_bottom.png generic_purple_skybox_east.png generic_purple_skybox_west.png generic_purple_skybox_south.png generic_purple_skybox_north.png" />
   <camera far="1000.0"/>
   <checks>
     <check-lap kind="lap" same-group="0" 0 />
