@@ -4,6 +4,8 @@
   <material name="main bake 1k_ update_3.png" shader="unlit"/>
   <material name="stktex_jetBlast_a.png" shader="unlit"/>
   <material name="backup_x11.png" shader="alphablend"/>
+  <material name="tyre.png" shader="unlit"/>
   <material name="thumbnail1.png" shader="unlit"/>
   <material name="groundbake 1k test2.png" shader="unlit"/>
+  <material name="T_WBarrier_Road_D.jpg" normal-map="T_WBarrier_Road_H.jpg"/>
 </materials>

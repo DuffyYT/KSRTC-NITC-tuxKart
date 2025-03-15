@@ -5,8 +5,42 @@
   <sky-box texture="generic_purple_skybox_top.png generic_purple_skybox_bottom.png generic_purple_skybox_east.png generic_purple_skybox_west.png generic_purple_skybox_south.png generic_purple_skybox_north.png" />
   <camera far="1000.0"/>
   <checks>
-    <check-lap kind="lap" same-group="0" 0 />
+    <check-lap kind="lap" same-group="0" other-ids="1" />
+    <check-line kind="activate" other-ids="2" p1="2.32 -0.01 -128.54" p2="16.34 -0.01 -128.54"
+                same-group="1"/>
+    <check-line kind="activate" other-ids="3" p1="17.95 -0.01 10.81" p2="27.76 -0.01 -5.64"
+                same-group="2"/>
+    <check-line kind="activate" other-ids="4" p1="61.47 -0.01 58.95" p2="84.80 -0.01 53.08"
+                same-group="3"/>
+    <check-line kind="activate" other-ids="5" p1="57.76 -0.01 106.07" p2="75.14 -0.01 114.14"
+                same-group="4"/>
+    <check-line kind="activate" other-ids="6" p1="-0.10 -0.01 154.90" p2="-0.36 -0.01 174.06"
+                same-group="5"/>
+    <check-line kind="activate" other-ids="7" p1="-45.18 -0.01 117.13" p2="-69.80 -0.01 130.18"
+                same-group="6"/>
+    <check-line kind="activate" other-ids="8" p1="-59.61 -0.01 58.00" p2="-83.68 -0.01 52.40"
+                same-group="7"/>
+    <check-line kind="activate" other-ids="9" p1="-32.90 -0.01 22.41" p2="-44.87 -0.01 2.71"
+                same-group="8"/>
+    <check-line kind="activate" other-ids="10" p1="-0.42 -0.01 -30.88" p2="-14.18 -0.01 -30.98"
+                same-group="9"/>
+    <check-line kind="activate" other-ids="11" p1="-2.20 -0.01 -113.55" p2="-15.96 -0.01 -113.65"
+                same-group="10"/>
+    <check-line kind="activate" other-ids="12" p1="-0.93 -0.01 -160.27" p2="-23.26 -0.01 -160.35"
+                same-group="11"/>
+    <check-line kind="activate" other-ids="13" p1="27.95 -0.01 -176.30" p2="6.94 -0.01 -187.33"
+                same-group="12"/>
+    <check-line kind="activate" other-ids="0" p1="23.03 -0.01 -158.22" p2="2.11 -0.01 -158.07"
+                same-group="13"/>
   </checks>
+  <big-nitro id="Empty" x="5.22" y="-0.09" z="-122.78" />
+  <big-nitro id="Empty.001" x="10.74" y="-0.09" z="-123.04" />
+  <big-nitro id="Empty.002" x="8.49" y="-0.09" z="-118.53" />
+  <big-nitro id="Empty.003" x="-4.91" y="-0.09" z="-29.87" h="180.00" />
+  <big-nitro id="Empty.004" x="-10.44" y="-0.09" z="-29.60" h="180.00" />
+  <big-nitro id="Empty.005" x="-8.18" y="-0.09" z="-34.11" h="180.00" />
+  <light xyz="7.96 8.10 -131.79" id="Light" distance="0.00" energy="100.00" color="0 0 255">
+  </light>
   <default-start karts-per-row     ="3"
                  forwards-distance ="1.50"
                  sidewards-distance="1.80"
