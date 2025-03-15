@@ -2,6 +2,7 @@
 <materials>
   <material name="misc bake 1k_test2.png" shader="unlit"/>
   <material name="main bake 1k_ update_3.png" shader="unlit"/>
+  <material name="stktex_jetBlast_a.png" shader="unlit"/>
   <material name="backup_x11.png" shader="alphablend"/>
   <material name="thumbnail1.png" shader="unlit"/>
   <material name="groundbake 1k test2.png" shader="unlit"/>
