@@ -1,4 +1,4 @@
-</h1>NITC track made for tuxKart</h1>
+_**NITC track made for tuxKart**__
 
 **Installation of the Track**
 
