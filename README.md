@@ -1,18 +1,23 @@
 NITC track made for tuxKart
 
-Tentative Steps to import the Track into your SuperTuxKart installation
+**Installation of the Track**
 
-download the "NITC-FOSS-track" folder from repository and paste it in 
-your supertuxkart ..data/tracks folder.
-You can find the folder in your STK installation, navigate to tracks folder and paste the folder
-there.
+download the "Track/NITC-FOSS" folder from repository and paste it in 
+your supertuxkart's "..data/tracks" folder.
 
-You shoud be good to go
+you can find the track in your game under "Duffy-NITC"
+You shoud be good to go !!
 
 ![MainEnterance](https://github.com/user-attachments/assets/b9b396f6-cc92-44ff-9030-08d9723833ab)
 
 
-Future plans:
-  Add textures : the map currently is untextured, Textures need to be mapped wth UV's by untegrating the STK media repo
+The track contains the STK drivelines, checklines and tyre barriers with custom textures.
 
-  The textures can be manually added, but is a hassle and honestly a pain in the rear.
+**Tooling and Customizing the track**
+
+THe blend files are present for the purpose which can be downloaded from the repo.
+
+Presequisites:
+  Blender 3.6 or above
+  STK addons and tools
+  Media repository from the SVN subversion (can be found out from STK's )
