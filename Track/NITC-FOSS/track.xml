@@ -4,7 +4,7 @@
         groups         = "Duffy-NITC"
         designer       = "Thiruchalvan"
         music          = "kart_grand_prix.music"
-        screenshot     = "screenshot.jpg"
+        screenshot     = "sc.png"
         smooth-normals = "false"
         default-number-of-laps = "3"
         reverse        = "N"

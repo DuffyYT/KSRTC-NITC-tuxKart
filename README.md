@@ -1,4 +1,4 @@
-NITC track made for tuxKart
+<h1>NITC track made for tuxKart</h1>
 
 Tentative Steps to import the Track into your SuperTuxKart installation
 
